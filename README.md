@@ -127,14 +127,3 @@ streamlit run parser.py
 * pandas — Data processing
 
 ```
-
----
-
-✅ Let me know if you want:
-- Badges (MIT, Python, Stars, etc.)
-- A live demo link section
-- Table of contents
-- Collapsible sections
-
-Otherwise, you're good to go!
-```
