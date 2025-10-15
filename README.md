@@ -1,10 +1,3 @@
-Perfect! Since this is for a **GitHub README.md**, I’ve reformatted your exact content so it renders cleanly — no jumbling, proper spacing, correct markdown hierarchy, and bullet alignment.
-
-Just **copy-paste directly into your `README.md`** ✅
-
----
-
-````markdown
 # 🧠 DocuMind – PDF Parser  
 **An intelligent PDF statement extractor with a beautiful UI**
 
