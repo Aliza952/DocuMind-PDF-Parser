@@ -108,7 +108,7 @@ streamlit run parser.py
 
 ### 📘 About Page
 
-<img width="1917" height="897" alt="image" src="https://github.com/user-attachments/assets/d88b3be2-4ead-4480-ae0d-7aa7f0fc882c" />
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/ae198d1d-7490-406b-8145-a5d30e75084b" />
 
 ---
 
