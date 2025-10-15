@@ -116,6 +116,7 @@ streamlit run parser.py
 
 **Aliza**
 ✨ “Building intelligent apps that simplify data understanding.”
+
 📧 Reach me on GitHub
 
 ---
@@ -125,5 +126,3 @@ streamlit run parser.py
 * Streamlit — UI framework
 * pdfplumber — Text extraction
 * pandas — Data processing
-
-```
